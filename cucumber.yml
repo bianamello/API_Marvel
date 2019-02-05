@@ -1,0 +1,3 @@
+---
+default: --format pretty -p html
+html: --format html --out=reports/features.html
